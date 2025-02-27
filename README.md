@@ -1,4 +1,4 @@
-# RAMP: R for AutoMatization and Packaging
+# RAMP: R for AutoMatization and Packaging <img src="logo.webp" align="right" height="160" alt="" />
 
 *Proposed date: Friday, late April 2025*
 
