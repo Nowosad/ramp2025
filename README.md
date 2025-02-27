@@ -1,6 +1,6 @@
 # RAMP: R for AutoMatization and Packaging
 
-*Proposed date: Friday, late April 2025*
+*Proposed date: Friday, 25. April 2025*
 
 ## Description
 
