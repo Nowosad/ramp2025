@@ -10,6 +10,7 @@ Participants will explore techniques to streamline their workflows, making spati
 The first part of the workshop will cover automation techniques, including using loops to handle spatial data science tasks such as model calculations based on various parameters and map creation based on multiple input files. 
 Participants will also learn to write functions that encapsulate code and efficiently apply them to multiple inputs using the **purrr** package. 
 Additionally, a brief discussion on parallel computing will demonstrate how to speed up processing times.
+<!--also: benchmarking and profiling-->
 
 Building on these skills, the second part of the workshop will focus on creating R packages. 
 Participants will learn how to structure their code into reusable packages, write proper documentation, and thus enhance reproducibility and encourage collaboration.
